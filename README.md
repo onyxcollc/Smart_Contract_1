@@ -1,4 +1,4 @@
-# Unit 20 - "Looks like we've made our First Contract!"
+# "Looks like we've made our First Contract!"
 
 ![contract](Images/smart-contract.png)
 
